@@ -12,5 +12,13 @@ Welcome to the Dentist Project!
 
 ## Getting Started
 
+
 https://github.com/mohadshadid/Dentist/assets/125037289/44a7272e-19f4-446d-b2f5-34934a61a1e4
+
+https://github.com/mohadshadid/Dentist/assets/125037289/33911781-7107-4300-9c1a-a63ca9f34cfc
+
+
+
+
+
 
