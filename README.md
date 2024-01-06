@@ -10,6 +10,17 @@ Welcome to the Dentist Project!
 - **Send Email:** Seamlessly communicate with doctors by utilizing [email.js](https://www.emailjs.com/) to send messages directly to the doctor.
 - **User-friendly Interface:** An intuitive and easy-to-use interface for dentists and staff.
 
+
+ <hr>
+ 
+# Technologies Used:
+
+  [![Tools](https://skillicons.dev/icons?i=react,js,css,bootstrap)](https://skillicons.dev)
+
+  - [imagekit API](https://imagekit.io/)
+
+ <hr>
+
 ## Getting Started
 
 
